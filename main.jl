@@ -1,1 +1,6 @@
-2+2
+include("interface.jl")
+using .Interface
+
+
+myfunction()
+
