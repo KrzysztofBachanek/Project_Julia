@@ -1,2 +1,2 @@
-# Project_Julia
+# Project Julia
 Sudoku Game in Julia
