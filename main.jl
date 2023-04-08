@@ -1,6 +1,5 @@
 include("interface.jl")
-using .Interface
+using .interface
+using Gtk
 
-
-myfunction()
-
+interface.create_window()
